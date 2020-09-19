@@ -10,6 +10,10 @@ This exporter was based off from both
 more elaborate Jenkins exporter here
 (https://github.com/lovoo/jenkins_exporter).
 
+[Grafana json CanhDX 20/09/2020](radosgw_usage_exporter.json)
+
+![](grafana.png)
+
 ## Requirements
 
 * Working Ceph Cluster with Object Gateways setup.
