@@ -48,7 +48,8 @@ For haproxy the timeout in question is `timeout server`
 
 ## Local Installation
 ```
-git clone git@github.com:blemmenes/radosgw_usage_exporter.git
+cd /opt/
+git clone https://github.com/uncelvel/radosgw_usage_exporter.git
 cd radosgw_usage_exporter
 pip install requirements.txt
 ```
